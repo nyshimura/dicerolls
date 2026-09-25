@@ -1,15 +1,10 @@
-# 🎲 Roladas Infinitas - Sistema de Rolagem de RPG Customizável
+# 🎲 Dice Rolls - Sistema de Rolagem de RPG Customizável
 
-**Roladas Infinitas** é um aplicativo web moderno, responsivo e 100% autônomo (não precisa de internet nem servidores) feito para jogadores e mestres de RPG de mesa (TTRPG).
+**Dice Rolls** é um aplicativo web moderno, responsivo e 100% autônomo (não precisa de internet nem servidores) feito para jogadores e mestres de RPG de mesa (TTRPG).
 
 ---
 
-## 🚀 Como Executar
 
-Basta dar um duplo clique no arquivo:
-```
-C:\Users\rafael.abreu\roladasinfinitas\index.html
-```
 Ele abrirá instantaneamente em qualquer navegador moderno (Chrome, Edge, Firefox, Brave, etc.).
 
 ---
